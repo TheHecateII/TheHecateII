@@ -2,19 +2,48 @@
 
 
 
-## Welcome to you stalker !
+### Welcome to you stalker !
 
 
 ______________________________________________
 
+```
+Hecate# ip route about me ↓
+```
 
-- 🌱 I’m currently learning  
+## About me
+
+- 🌐 **Student in the network. I use equipment made by** 
+
+    <img src="https://i.imgur.com/M5TJhry.png" width="55" height="30"/>  <img src="https://i.imgur.com/psC9CZr.png" width="90" height="30"/> <img src="https://i.imgur.com/f7XaadI.png" width="30" height="30"/>
+
+
+
+
+
+
+- 🌱 **I’m currently learning**  
 
     <img src="https://i.imgur.com/Visytr3.png" width="30" height="30"/> <img src="https://i.imgur.com/NiKwuPQ.png" width="100" height="30"/> 
 
+
+
       
+- 🔧 **I’m currently work on** 
+  
+  - http://discord.borderline-rp.fr/
+
+
 
 - 📫 You can reach me on Discord #Hecate0667
+
+
+## Skills 
+
+<img src="https://i.imgur.com/L4UBOIz.png" src="PfSense" title="PfSense" width="50"/> <img src="https://i.imgur.com/JjIbdTi.png" src="PfSense" title="Linux (Not Pingu)" width="50"/> <img src="https://i.imgur.com/tHloOfW.png" src="PfSense" title="Shitty OS" width="100"/>
+
+
+
 
 <!---
 TheHecateII/TheHecateII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
