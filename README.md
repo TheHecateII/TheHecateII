@@ -40,6 +40,10 @@ Hecate# ip route about me ↓
   
     - *only **Fr** or **En** languages*
 
+```
+Hecate# ip route skills ↓
+```
+
 ## Skills 
 
 <img src="https://i.imgur.com/L4UBOIz.png" src="PfSense" title="PfSense" width="50"/> <img src="https://i.imgur.com/JjIbdTi.png" src="PfSense" title="Linux (Not Pingu)" width="50"/> <img src="https://i.imgur.com/tHloOfW.png" src="PfSense" title="Shitty OS" width="100"/> <img src="https://i.imgur.com/9iBcovw.png" src="PfSense" title="Networking" width="50"/>
