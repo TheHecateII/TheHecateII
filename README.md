@@ -1,13 +1,9 @@
-## Welcome to you stalker ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-
-
-
-
+## Welcome to you stalker !
 
 ______________________________________________
 
 
-- 🌱 I’m currently learning Skript/Sqript ![39464898](https://user-images.githubusercontent.com/83183415/156942319-745811ad-4cea-4ec2-bbcd-b4d937fbf185.png)
+- 🌱 I’m currently learning Skript/Sqript 
 - 📫 How to reach me on Discord #Hecate0667
 
 <!---
