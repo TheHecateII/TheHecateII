@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/NYhjdfP.gif" width="1024" height="256"/> 
+<img src="https://i.imgur.com/NYhjdfP.gif" width="8192" height="256"/> 
 
 
 
