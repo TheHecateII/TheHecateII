@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/NYhjdfP.gif" width="8192" height="256"/> 
+<img src="https://i.imgur.com/2uo8diL.png" width="8192" height="256"/> 
 
 
 
@@ -46,10 +46,14 @@ Hecate# ip route skills ↓
 
 ## Skills 
 
-<img src="https://i.imgur.com/L4UBOIz.png" src="PfSense" title="PfSense" width="50"/> <img src="https://i.imgur.com/JjIbdTi.png" src="PfSense" title="Linux (Not Pingu)" width="50"/> <img src="https://i.imgur.com/tHloOfW.png" src="PfSense" title="Shitty OS" width="100"/> <img src="https://i.imgur.com/9iBcovw.png" src="PfSense" title="Networking" width="50"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/material/48/000000/server-windows.png"/> <img src="https://img.icons8.com/fluency/48/000000/router.png"/>
 
 
 
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheHecateII&show_icons=true&layout=compact&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Hecate's GitHub Stats" /> 
 
 <!---
 TheHecateII/TheHecateII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
