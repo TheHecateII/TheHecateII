@@ -25,7 +25,7 @@ Hecate# ip route about me ↓
 
 - 🌱 **I’m currently learning**  
 
-    <img src="https://i.imgur.com/Visytr3.png" width="30" height="30"/> <img src="https://imgur.com/PNeE9xh.png" width="100" height="30"/> 
+    <img src="https://i.imgur.com/Visytr3.png" width="30" height="30"/> <img src="https://imgur.com/PNeE9xh.png" width="30" height="30"/> 
 
 
 
