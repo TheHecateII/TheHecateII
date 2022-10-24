@@ -32,7 +32,7 @@ Hecate# ip route about me ↓
       
 - 🔧 **I’m currently work on** 
   
-    - http://discord.borderline-rp.fr/
+    - https://discord.slife-rp.fr
 
 
 
