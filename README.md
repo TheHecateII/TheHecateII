@@ -1,14 +1,14 @@
-# Hi there, I'm Hecate 👋
+# Hi there, I'm TheHecateII! 👋
 
-> **"Understand the black box before automating it."**
+> **"Building a sovereign Cloud to break free from the Hyperscalers."**
 
-Passionate about Network Engineering, Infrastructure as Code (IaC), and Automation, I build robust and scalable virtualized environments. My approach blends technical DevOps expertise with AI-assisted strategic analysis methodologies.
+Passionate about Network Engineering and Infrastructure as Code (IaC), I build robust and scalable virtualized environments. My mission is to replicate the **"Cloud-Like" experience** (elasticity, automation) on sovereign infrastructure, moving away from closed ecosystems like AWS or Azure.
 
 ---
 
 ## 🔭 What I'm currently working on
 
-I am developing a complete **Cloud-Native Home Lab** from scratch to master the Kubernetes deployment chain.
+I am developing a complete **Cloud-Native Home Lab** from scratch to master the Kubernetes deployment chain without relying on managed services.
 
 * **Infrastructure:** Proxmox VE (API-driven management).
 * **Provisioning:** Ansible (Dynamic Inventories, Roles, Idempotency).
@@ -17,9 +17,9 @@ I am developing a complete **Cloud-Native Home Lab** from scratch to master the 
 
 ### 🌐 Network Operations
 I am a Network Enthusiast actively operating **AS216438** alongside [@Raraph84](https://github.com/Raraph84).
-* *Focus:* BGP peering and IPv6 deployment.
+* *Focus:* BGP peering, Routing security (RPKI), and IPv6 deployment to strengthen the decentralized web.
 
-### 🚀 Project Spotlight: [Easy-Init](https://github.com/YourUsername/Easy-Init)
+### 🚀 Project Spotlight: [Easy-Init](https://github.com/TheHecateII/Easy-Init)
 A robust automation tool to generate Cloud-Ready Debian templates (11, 12, 13) on Proxmox.
 * *Stack:* Bash, QEMU Guest Agent, Libguestfs.
 * *Concept:* Driver injection and hardware optimization prior to the very first boot.
@@ -46,10 +46,10 @@ A robust automation tool to generate Cloud-Ready Debian templates (11, 12, 13) o
 
 ## 📈 GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=TheHecateII&show_icons=true&theme=radical)
+![TheHecateII's Stats](https://github-readme-stats.vercel.app/api?username=TheHecateII&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 
-* If you are interested in **AS216438**, Proxmox automation, or the advanced use of LLMs for DevOps, feel free to open an issue!
+* If you are interested in **AS216438**, sovereign cloud architectures, or the advanced use of LLMs for DevOps, feel free to open an issue!
